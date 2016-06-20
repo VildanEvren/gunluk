@@ -1,0 +1,8 @@
+Personel takip ödevim için kontrolleri araþtýrdým. Þifresini unutan bir personel olabilir.
+Þifremi unuttum alanýna týkladýktan sonra sadece email adresini gireceði bir ekran gelecek. Personel email adresini 
+girecek ve email adresi veritabanýndaki email adresi ile uyuþup uyuþmadýðýnýn uyarýsýný verecek. Uyuþuyorsa butona basýldýktan sonra 
+þifre deðiþecek ve email adresinize þifre aktardý diyecek. Veri tabanýma baktýðým zamanda güvenli olmasý açýsýndanda
+md5 ile kayýt edecek. php de Þifre kontrol iþlemlerini araþtýrým. Düzenli Ýfadeler (Regular Expressions) kullanýmlarýna baktým.
+Þifrenin en az 8 harf olmasý durumunu , en az 1 tane büyük harf bulundurma zorunluluðu ve özel karakter kontrolü gibi.
+Uygulamamda kullandým. Þifre deðiþtirma ve veritabanýndada güncellenmesi olayý sorunsuz çalýþýyor. Ayný zamanda ASP .Net Temelleri,
+ASP .NET Genel Tanýmlar ve Web.Config Dosyasý ile araþtýrma yaptým.
